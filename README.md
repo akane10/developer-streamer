@@ -9,6 +9,7 @@
 - Arnaud Spiwack | [twitter](https://twitter.com/aspiwack) [twitch](https://www.twitch.tv/notnotarnaud)
 - Jean Yang | [twitter](https://twitter.com/jeanqasaur) [twitch](https://www.twitch.tv/jeanqasaur)
 - Brian McKenna | [twitter](https://twitter.com/puffnfresh) [twitch](https://www.twitch.tv/puffnfresh)
+- tsoding | [twitter](https://twitter.com/tsoding) [twitch](https://www.twitch.tv/tsoding)
 
 ## Game Dev
 
@@ -36,7 +37,6 @@
 
 - Andreas Kling | [twitter](https://twitter.com/awesomekling) [youtube](https://www.youtube.com/andreaskling)
 - Isaiah Smith | [twitter](https://twitter.com/IsaiahByDayah) [twitch](https://www.twitch.tv/isaiahbydayah)
-- Heath Adams | [twitter](https://twitter.com/thecybermentor) [twitch](https://www.twitch.tv/thecybermentor) [youtube](https://www.youtube.com/c/thecybermentor)
 - Michael Crump | [twitter](https://twitter.com/mbcrump) [twitch](https://www.twitch.tv/mbcrump) [youtube](https://www.youtube.com/mbcrump)
 - nataliecodes | [twitch](https://www.twitch.tv/nataliecodes)
 - Zack DeRose | [twitter](https://twitter.com/zackderose) [twitch](https://www.twitch.tv/zackderose)
